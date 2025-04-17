@@ -6,26 +6,26 @@ This repo contains the foundational projects and exercises I built while learnin
 Throughout this project, I learned the following GSAP animation techniques and concepts:
 
 ✅ Key Concepts:
-1. JS Animation
+1. JS Animation<br>
    Created basic animations directly using JavaScript, understanding how to manipulate the DOM and apply dynamic styles to elements.
 
-2. Tween
+2. Tween<br>
    Learned how to use GSAP's Tween class to animate elements between specific values (such as position, opacity, or scale).
 
-3. Set Method
+3. Set Method<br>
    Explored the set() method in GSAP, allowing me to instantly apply styles or set up initial states for elements without animation.
 
-4. from() and fromTo() Methods
+4. from() and fromTo() Methods<br>
    Learned how to use the from() and fromTo() methods to animate elements from specific properties or from one state to another, offering flexibility in animation direction.
 
-5. Staggers
+5. Staggers<br>
    Implemented staggered animations, where multiple elements animate sequentially, with a small delay between each. Great for animating lists or grids of items.
 
-6. Controlling Tweens
+6. Controlling Tweens<br>
    Gained knowledge of how to control tweens, including pausing, reversing, and adjusting playback speed, giving more control over the animations.
 
-7. Timelines
+7. Timelines<br>
    Explored GSAP's Timeline feature to create synchronized sequences of animations, allowing for the execution of multiple animations in a specific order.
 
-8. Simple Project
+8. Simple Project<br>
    Built a simple project that applied the basic GSAP techniques I learned, showcasing the power and ease of using GSAP for creating animations.
